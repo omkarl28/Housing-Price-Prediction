@@ -6,7 +6,7 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -83,9 +83,6 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by - as an assignment of Upgrad
 
 ## Contact
 Created by [@omkarl28] - feel free to contact me!
