@@ -1,2 +1,2 @@
-# Housing-Price-Prediction
-Housing-Price-Prediction
+# Housing-Price-prediction
+Housing-Price-prediction
