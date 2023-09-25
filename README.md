@@ -45,10 +45,17 @@ Also, determine the optimal value of lambda for ridge and lasso regression.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The optimal value of LAMBDA we got in case of Ridge and Lasso is :
+- Ridge - **2.0**
+- Lasso - **0.0001**
+- The r2 value we got in case of Ridge and Lasso is:
+- Ridge - Train = **0.930** , Test = **0.896**
+- Lasso - Train = **0.927** , Test = **0.902**
+- The Mean Squared error in case of Ridge and Lasso is:
+- Ridge - **0.00297**
+- Lasso - **0.00280**
+- - We can clearly observe that the Mean Squared Error of Lasso is slightly lower than that of Ridge.
+- Also since Lasso helps in feature reduction (as the coefficient value of one of the lasso's feature to be shrunk toward 0) and helps to increase model interpretation by taking the magnitude of the coefficients thus **Lasso has a better edge over Ridge.**
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
